@@ -1,1 +1,149 @@
+30 Istilah Literasi Digital yang Berhubungan dengan Pembuatan Buku dan Jurnal Ilmiah
 
+Pendahuluan
+
+Di era perkembangan teknologi, literasi digital menjadi keterampilan penting dalam kegiatan pendidikan, penelitian, dan penulisan. Literasi digital tidak hanya berkaitan dengan kemampuan menggunakan internet, tetapi juga mencakup kemampuan mencari informasi, mengevaluasi sumber, mengolah data, menulis karya ilmiah, serta memublikasikan karya dalam bentuk digital.
+
+Dalam proses pembuatan buku dan jurnal ilmiah, terdapat berbagai istilah yang perlu dipahami, mulai dari e-book, ISBN, DOI, jurnal elektronik, hingga kecerdasan buatan atau Artificial Intelligence (AI). Memahami istilah-istilah tersebut dapat membantu mahasiswa dan penulis menghasilkan karya yang lebih terstruktur, berkualitas, dan bertanggung jawab.
+
+Berikut adalah 30 istilah literasi digital yang berkaitan dengan pembuatan buku dan jurnal ilmiah beserta penjelasannya.
+
+A. Istilah yang Berhubungan dengan Pembuatan Buku Digital
+
+1. E-book (Electronic Book)
+
+E-book adalah buku dalam format digital yang dapat dibaca menggunakan komputer, laptop, tablet, atau smartphone. E-book memudahkan pembaca mengakses buku tanpa harus memiliki versi cetak. Contoh formatnya adalah PDF dan EPUB.
+
+2. ISBN (International Standard Book Number)
+
+ISBN adalah nomor identifikasi standar internasional untuk buku yang diterbitkan. Nomor ini membantu membedakan suatu edisi atau format publikasi buku. ISBN bukan sertifikat yang menjamin kualitas isi buku.
+
+3. EPUB (Electronic Publication)
+
+EPUB adalah format buku digital yang dirancang agar teks dapat menyesuaikan ukuran layar perangkat. Format ini cocok untuk membaca buku melalui aplikasi pembaca e-book.
+
+4. PDF (Portable Document Format)
+
+PDF adalah format dokumen digital yang mempertahankan tata letak, gambar, dan teks agar tampil relatif konsisten pada berbagai perangkat. Format ini sering digunakan untuk buku elektronik, modul pembelajaran, dan naskah jurnal.
+
+5. Manuskrip
+
+Manuskrip adalah naskah tulisan yang dipersiapkan untuk diterbitkan sebagai buku atau karya ilmiah. Manuskrip biasanya melalui proses pemeriksaan, penyuntingan, dan perbaikan sebelum dipublikasikan.
+
+6. Layout atau Tata Letak
+
+Layout adalah proses mengatur posisi teks, gambar, judul, tabel, dan elemen lain dalam halaman buku. Tata letak yang baik membuat buku lebih rapi, nyaman dibaca, dan mudah dipahami.
+
+7. ISBN Elektronik
+
+ISBN elektronik adalah ISBN yang diberikan untuk publikasi buku dalam format digital apabila sesuai dengan ketentuan identifikasi ISBN. Penggunaan ISBN perlu mengikuti aturan penerbitan yang berlaku dan tidak otomatis diperlukan untuk setiap dokumen digital.
+
+8. Hak Cipta Digital
+
+Hak cipta digital adalah perlindungan hukum terhadap karya yang dibuat dan disebarkan dalam bentuk digital. Perlindungan ini dapat mencakup buku elektronik, ilustrasi, tulisan, dan karya kreatif lainnya.
+
+9. Metadata Buku
+
+Metadata buku adalah informasi yang menjelaskan identitas dan karakteristik buku, seperti judul, nama penulis, penerbit, tahun terbit, bahasa, serta deskripsi isi. Metadata membantu buku ditemukan melalui katalog dan mesin pencari.
+
+10. Penerbitan Mandiri (Self-Publishing)
+
+Self-publishing adalah proses menerbitkan buku secara mandiri tanpa harus sepenuhnya bergantung pada penerbit tradisional. Penulis dapat menggunakan platform digital untuk mengelola naskah, desain, distribusi, dan pemasaran bukunya.
+
+B. Istilah yang Berhubungan dengan Jurnal Ilmiah
+
+11. Jurnal Ilmiah
+
+Jurnal ilmiah adalah publikasi berkala yang memuat artikel ilmiah, hasil penelitian, kajian teori, atau pembahasan akademik. Jurnal digunakan untuk menyebarkan pengetahuan dan hasil penelitian kepada masyarakat akademik.
+
+12. E-journal (Electronic Journal)
+
+E-journal adalah jurnal yang diterbitkan atau diakses dalam format elektronik. Pembaca dapat mengakses artikelnya melalui situs jurnal atau platform publikasi ilmiah.
+
+13. ISSN (International Standard Serial Number)
+
+ISSN adalah nomor identifikasi standar internasional untuk publikasi berkala, seperti jurnal ilmiah dan majalah. ISSN berbeda dari ISBN yang digunakan untuk mengidentifikasi buku.
+
+14. DOI (Digital Object Identifier)
+
+DOI adalah pengenal digital permanen yang digunakan untuk mengidentifikasi objek digital, seperti artikel jurnal, laporan penelitian, atau publikasi akademik lainnya. DOI membantu pembaca menemukan publikasi meskipun alamat situsnya berubah.
+
+15. OJS (Open Journal Systems)
+
+OJS adalah perangkat lunak untuk mengelola penerbitan jurnal ilmiah secara daring. Sistem ini membantu pengelola jurnal menangani pengiriman artikel, proses penilaian, penyuntingan, hingga penerbitan.
+
+16. Peer Review
+
+Peer review adalah proses penilaian karya ilmiah oleh ahli atau peneliti lain yang memiliki keahlian terkait. Proses ini bertujuan menilai kualitas, ketepatan metode, dan kontribusi ilmiah suatu artikel sebelum diterbitkan.
+
+17. Sitasi (Citation)
+
+Sitasi adalah penyebutan sumber informasi yang digunakan dalam suatu tulisan. Sitasi membantu pembaca menelusuri sumber asli dan memberikan pengakuan kepada penulis yang karyanya dirujuk.
+
+18. Daftar Pustaka
+
+Daftar pustaka adalah kumpulan sumber yang dirujuk dalam sebuah karya ilmiah atau buku. Informasi yang dicantumkan biasanya meliputi nama penulis, tahun terbit, judul, dan informasi penerbitan sesuai gaya referensi yang digunakan.
+
+19. DOI Lookup
+
+DOI lookup adalah proses mencari informasi publikasi menggunakan DOI. Melalui layanan pencarian DOI, pengguna dapat menemukan metadata publikasi dan mengakses halaman artikel terkait.
+
+20. Open Access
+
+Open access adalah model publikasi yang memungkinkan pembaca mengakses karya ilmiah secara daring tanpa biaya akses langsung. Namun, ketentuan penggunaan ulang karya tetap mengikuti lisensi dan kebijakan publikasi yang berlaku.
+
+C. Istilah Penulisan dan Pengolahan Informasi Digital
+
+21. Plagiarisme
+
+Plagiarisme adalah tindakan menggunakan gagasan, tulisan, data, atau karya orang lain tanpa memberikan pengakuan yang semestinya. Untuk menghindarinya, penulis harus mencantumkan sumber dan menyusun tulisan secara jujur.
+
+22. Parafrasa
+
+Parafrasa adalah penyampaian kembali gagasan dari suatu sumber menggunakan susunan kata sendiri tanpa mengubah makna aslinya. Parafrasa tetap membutuhkan sitasi jika gagasan tersebut berasal dari orang lain.
+
+23. Referensi Digital
+
+Referensi digital adalah sumber informasi yang diakses melalui media elektronik, seperti artikel jurnal daring, buku elektronik, laporan penelitian, dan situs lembaga resmi.
+
+24. Google Scholar
+
+Google Scholar adalah layanan pencarian literatur akademik yang membantu pengguna menemukan artikel ilmiah, tesis, buku, dan sumber penelitian lainnya. Pengguna tetap perlu memeriksa kualitas dan keaslian setiap sumber yang ditemukan.
+
+25. DOI Metadata
+
+DOI metadata adalah informasi deskriptif yang terhubung dengan suatu DOI, seperti judul artikel, nama penulis, tahun publikasi, dan nama jurnal. Informasi ini dapat membantu penulis menyusun referensi dengan lebih akurat.
+
+D. Istilah Kecerdasan Buatan (AI) dalam Pembuatan Buku dan Jurnal
+
+26. Artificial Intelligence (AI)
+
+Artificial Intelligence atau kecerdasan buatan adalah teknologi yang memungkinkan sistem komputer menjalankan tugas yang biasanya membutuhkan kemampuan manusia, seperti memahami bahasa, mengenali pola, dan membantu mengolah informasi.
+
+Dalam penulisan buku dan jurnal, AI dapat membantu menyusun kerangka tulisan, mencari ide, dan memperbaiki bahasa. Namun, hasilnya tetap harus diperiksa oleh penulis.
+
+27. Generative AI
+
+Generative AI adalah jenis AI yang dapat menghasilkan konten baru, seperti teks, gambar, audio, atau kode berdasarkan instruksi pengguna. Teknologi ini dapat dimanfaatkan untuk membuat draf tulisan, ilustrasi buku, dan materi pendukung pembelajaran.
+
+28. Prompt
+
+Prompt adalah instruksi atau perintah yang diberikan kepada AI untuk menghasilkan respons tertentu. Prompt yang jelas, spesifik, dan memiliki konteks akan membantu menghasilkan jawaban yang lebih sesuai dengan kebutuhan penulisan.
+
+29. AI Writing Assistant
+
+AI writing assistant adalah alat berbasis kecerdasan buatan yang membantu proses penulisan, misalnya memperbaiki tata bahasa, mengembangkan kerangka artikel, merangkum materi, dan menyusun draf awal. Penulis tetap bertanggung jawab atas akurasi dan orisinalitas hasil akhir.
+
+30. AI Hallucination
+
+AI hallucination adalah kondisi ketika sistem AI menghasilkan informasi yang terdengar meyakinkan, tetapi tidak akurat atau tidak didukung bukti. Dalam pembuatan buku dan jurnal, penulis perlu memverifikasi fakta, kutipan, DOI, dan daftar pustaka melalui sumber tepercaya.
+
+Kesimpulan
+
+Memahami istilah-istilah literasi digital yang berkaitan dengan pembuatan buku dan jurnal ilmiah merupakan langkah penting bagi mahasiswa, peneliti, dan penulis. Istilah seperti ISBN, ISSN, DOI, e-book, peer review, sitasi, dan open access membantu kita memahami proses penerbitan dan penyebaran informasi secara digital.
+
+Sementara itu, teknologi AI dapat membantu mempercepat proses penulisan dan pengolahan informasi. Meskipun demikian, penggunaan AI harus disertai kemampuan berpikir kritis, pemeriksaan fakta, penghormatan terhadap hak cipta, serta kejujuran akademik.
+
+Dengan memahami dan menerapkan istilah-istilah tersebut, mahasiswa dapat meningkatkan keterampilan literasi digital dan menghasilkan karya tulis yang lebih berkualitas, bertanggung jawab, serta bermanfaat bagi pembaca.
+
+Kata kunci SEO: literasi digital, istilah literasi digital, pembuatan buku digital, jurnal ilmiah, ISBN, ISSN, DOI, e-book, kecerdasan buatan, AI untuk penulisan, dan publikasi digital.
